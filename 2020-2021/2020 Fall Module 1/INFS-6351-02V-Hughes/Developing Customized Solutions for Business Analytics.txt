@@ -1,0 +1,3 @@
+INFS 6351: Developing Customized Solutions for Business Analytics [3‐0]
+
+Novel problems require innovative solutions - this course introduces students to the power and flexibility of programming and scripting languages such as R and Python, applied to problems in business analytics. Students will learn how to acquire and deploy software packages relevant to their problem, then use them together with tools such as SQL to collect and prepare data, customized analyses according to specific needs, and create outputs which effectively communicate the results.

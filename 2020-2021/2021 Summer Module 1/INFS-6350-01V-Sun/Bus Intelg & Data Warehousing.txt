@@ -1,0 +1,3 @@
+INFS 6350: Bus Intelg & Data Warehousing              [3‐0]
+
+This course discusses the process of business analytics by developing a business intelligence solution, including problem definition, data preparation, descriptive and predictive analyses, evaluation of results, implementation and deployment. Data-oriented methods using spreadsheet and structured query language (SQL) are emphasized for business transaction capturing, data aggregation and online analytic processing (OLAP). Students will employ a variety of software tools in the development of a data warehouse, including ETL (extraction, transformation and loading) and visual data representations (e.g., data cubes).

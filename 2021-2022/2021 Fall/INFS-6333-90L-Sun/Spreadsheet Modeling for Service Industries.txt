@@ -1,0 +1,4 @@
+INFS 6333: Spreadsheet Modeling for Service Industries [3‐0]
+
+This course focuses on spreadsheet modeling to support decision making by organizations in service industries, such as healthcare, banking, distribution, and education. Students develop critical thinking and problem solving skills to address real-world problems. The spreadsheet modeling capability acquired is highly practical for managers and administrators. Course topics cover display charts, data exploration. decision-making logic, reference functions, financial impact of loans and investments, project management, what-if analysis, goal seek. visual basic programming, and other advanced tools.
+
