@@ -1,0 +1,3 @@
+INFS 6330: Information Systems for Managers                [3‐0]
+
+Alternative approaches to managing the resources (computers, networks, software, data, & people) that organizations utilize in applying information systems. The roles of the user/manager identifying opportunities, obtaining computer applications and creatively using information technology to improve operational, tactical and strategic planning and performance. Topics that will be covered include enterprise systems, managerial support systems, decision support systems, e‐commerce applications.

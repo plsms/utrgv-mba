@@ -1,0 +1,4 @@
+INFS 6340: Health Computer Information Systems                   [3‐0]
+
+This course provides the knowledge about fundamentals of health Information Systems and the role of Information systems in efficient operation of healthcare organizations. The course specifically focuses on: Evolution of HMIS, HMIS components and basic HMIS functions, technology infrastructure for healthcare organizations, basic concepts such as HER, HIE, CPOE, and CDSS, HMIS standards such as HIPPA, HL7, and DICOM, strategic information systems planning for healthcare organizations, systems analysis and project management, information security issues, and role of HMIS professionals in health organizations.
+
