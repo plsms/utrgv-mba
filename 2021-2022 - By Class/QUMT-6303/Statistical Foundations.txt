@@ -1,5 +1,0 @@
-QUMT 6303: Statistical Foundations              [3‐0]
-
-An introduction to statistical methodology to include probability concepts, inference techniques, analysis of variance, regression analysis, chi square and other non‐parametric analyses. This course focuses on the use of the computer in performing statistical analysis.
-
-Prerequisite(s): Admission to the MBA Program.
